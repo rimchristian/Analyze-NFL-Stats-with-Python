@@ -1,4 +1,4 @@
-![image](https://github.com/rimchristian/Analyze-NFL-Stats-with-Python/assets/74616874/0250aac6-a5f8-42ac-a70b-1f3865a7373a)# Analyze-NFL-Stats-with-Python
+# Analyze-NFL-Stats-with-Python
 
 # Predict the winner of an NFL game with machine learning
 
